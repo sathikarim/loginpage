@@ -67,7 +67,7 @@
             android:layout_marginTop="32dp"
             android:background="#FFA1514A"
             android:text="LOGIN"
-            android:onClick="login"/>
+            />
 
         <Button
             android:layout_width="match_parent"
@@ -75,7 +75,6 @@
             android:layout_marginTop="8dp"
             android:background="#FFD28F50"
             android:text="SINGUP"
-            android:onClick="sii"
             />
 
 

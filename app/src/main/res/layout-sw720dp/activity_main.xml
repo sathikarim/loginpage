@@ -68,14 +68,14 @@
             android:layout_marginTop="32dp"
             android:background="#FFA1514A"
             android:onClick="login"
-            android:text="LOGIN" />
+             />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="84dp"
             android:layout_marginTop="8dp"
             android:background="#FFD28F50"
-            android:onClick="sii"
+
             android:text="SINGUP" />
 
 
